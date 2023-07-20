@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaiwoSoftware
 - 👀 I’m interested in Javascript and react
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on backend developers and designers
 - 📫 How to reach me davcodes24@gmail.com
 
