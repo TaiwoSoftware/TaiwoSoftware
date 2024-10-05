@@ -8,7 +8,8 @@ Looking forward to working with different teams and building my self in the tech
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [davcodes24@gmail.com](mailto:davcodes24@gmail.com)
-* 🧠  I'm learning Nextjs
+* 🧠  I'm learning Typescript
+* 😎  Visit [my portfolio](https://akerele.netlify.app/)
 * 🤝  I'm open to collaborating on Backend developers designers
 
 ### Skills
