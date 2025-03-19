@@ -4,7 +4,7 @@
 I'm a **Frontend Developer** at [JamorTechnology](https://jamortechnology.com), specializing in **React.js, TypeScript, and Tailwind CSS**. I translate UI designs from **Figma** into pixel-perfect, responsive web applications. Passionate about **Web3 development**, I'm currently working on **decentralized applications (dApps)** and integrating smart contracts with frontend interfaces.
 
 ## 🔥 What I'm Working On
-- 🌐 **Library Website for Yaba College of Technology LIS Department**
+- 🌐 **Library Website for an organization**
   - A digital catalog with book borrowing, research resources, and classification using the **Library of Congress Classification** system.
   - Built with **React, TypeScript, and a self-developed backend**.
   - Integrates **Open Library API** for book data.
